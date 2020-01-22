@@ -7131,23 +7131,6 @@ a.b-button {
 /* -------------------- Прочее -------------------- */
 
 /* Новости и уведомления в два столбца */
-.p-messages-index .b-topic > .b-comments {
-  display: flex;
-  flex-wrap: wrap;
-  flex: 1 1 auto;
-}
-
-.p-messages-index .b-comments .b-message {
-  display: inline-block;
-  width: 48%;
-  max-height: 290px !important;
-  overflow: auto;
-}
-
-.p-messages-index .b-comments .b-message:nth-child(2n+1) {
-  margin-right: calc(50% - 46%);
-}
-/* Новости и уведомления в два столбца */
 
 
 
