@@ -969,8 +969,8 @@ header.head a.edit:active,
 
 .l-top_menu-v2 .menu-dropdown.main .icon-avatar img {
   margin-right: -10px;
-  width: 300px;
-  height: 300px;
+  width: 30px;
+  height: 30px;
   border-radius: 100%;
 }
 
@@ -1067,10 +1067,10 @@ header.head a.edit:active,
   width: 36%;
   max-height: 538px;
   background: var(--b2);
-  padding: 20px;
-  margin: 20px 20px 78px;
+  padding: 200px;
+  margin: 200px 200px 780px;
   border: 1px solid var(--b3);
-  border-radius: 4px 4px 0 0;
+  border-radius: 40px 40px 0 0;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
