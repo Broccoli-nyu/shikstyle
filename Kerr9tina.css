@@ -1,5 +1,4 @@
-@media screen and (min-width: 1170px)  { body { margin: 0;
-    height: 100% } }
+@media screen and (min-width: 1170px)  { body { margin: 0; height: 100% } .l-page { margin: 0; height: 100% } }
 
 /* -------------------- Настройки -------------------- */
 
