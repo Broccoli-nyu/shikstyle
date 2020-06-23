@@ -1,4 +1,4 @@
-
+<meta name="viewport" content="width=device-width, initial-scale=1">
 @media screen and (min-width: 1170px)  { body { width: 100%; height: 100% } .l-page { width: 100%; height: 100% } .profile-head .avatar { width: 10%; height: 100% } }
 
 /* -------------------- Настройки -------------------- */
@@ -1826,7 +1826,7 @@ header.head a.edit:active,
 .p-profiles .profile-head .c-info .c-lists-info .b-stats_bar.anime:after {
   content: '';
   display: block;
-  margin: 12px 0 20px 0;
+  margin: 120px 0 200px 0;
   border-top: 1px solid var(--b3);
 }
 
