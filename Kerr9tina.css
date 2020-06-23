@@ -1082,11 +1082,11 @@ header.head a.edit:active,
 
 .p-profiles .profile-head .c-brief .avatar .profile-actions {
   position: absolute;
-  bottom: -5%;
+  bottom: -58px;
   left: -1px;
   right: -1px;
   margin: 0;
-  padding: 1px;
+  padding: 6px;
   font-size: 24px;
   background: var(--b2);
   border: 1px solid var(--b3);
