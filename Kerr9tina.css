@@ -95,7 +95,7 @@ body {
 /* Псевдо аватарка */
 .p-profiles .profile-head .c-brief .avatar {
   background-image: url(https://i.imgur.com/Xq5QfRk.png) !important; /* Ссылка на картинку */
-  height: 538px; /* Высота изображения */
+  height: 50%; /* Высота изображения 538px */
 }
 
 
