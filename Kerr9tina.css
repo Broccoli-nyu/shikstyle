@@ -1367,7 +1367,7 @@ header.head a.edit:active,
   display: block;
   float: right;
   clear: none;
-  width: 12%;
+  width: 60%;
   min-height: 5px; 
   height: auto;
   margin: 20px;
@@ -1504,7 +1504,7 @@ header.head a.edit:active,
   display: block;
   float: left;
   text-align: center;
-  width: 36%;
+  width: 32%;
   min-height: 5px;
   height: auto;
   margin: 20px;
@@ -1516,11 +1516,11 @@ header.head a.edit:active,
 }
 
 .p-profiles-show.x1200 .profile-content .c-right {
-  width: 36%;
+  width: 32%;
 }
 
 .p-profiles-show.x1200 .profile-content .c-right > .cc-2a > .c-column {
-  width: 36%;
+  width: 32%;
 }
 
 .p-profiles-show .profile-content > .cc-2.block {
@@ -1531,7 +1531,7 @@ header.head a.edit:active,
   display: block;
   float: left;
   text-align: center;
-  width: 36%;
+  width: 32%;
   min-height: 5px;
   height: auto;
   margin: 20px;
@@ -1566,7 +1566,7 @@ header.head a.edit:active,
   float: left;
   vertical-align: middle;
   text-align: center;
-  width: 96.5%;
+  width: 32%;
   height: auto;
   margin: 20px;
   padding: 20px;
@@ -1593,7 +1593,7 @@ header.head a.edit:active,
 }
 
 .p-profiles-show .profile-content > .cc-2 > .c-column > .block:last-child > .cc-favourites .c-column .image-cutter {
-  max-width: 100% !important;
+  max-width: 32% !important;
   max-height: 100% !important;
 }
 
