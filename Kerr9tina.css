@@ -1504,7 +1504,7 @@ header.head a.edit:active,
   display: block;
   float: left;
   text-align: center;
-  width: 32%;
+  width: 18%;
   min-height: 5px;
   height: auto;
   margin: 20px;
@@ -1516,11 +1516,11 @@ header.head a.edit:active,
 }
 
 .p-profiles-show.x1200 .profile-content .c-right {
-  width: 36%;
+  width: 18%;
 }
 
 .p-profiles-show.x1200 .profile-content .c-right > .cc-2a > .c-column {
-  width: 36%;
+  width: 18%;
 }
 
 .p-profiles-show .profile-content > .cc-2.block {
@@ -1531,7 +1531,7 @@ header.head a.edit:active,
   display: block;
   float: left;
   text-align: center;
-  width: 36%;
+  width: 18%;
   min-height: 5px;
   height: auto;
   margin: 20px;
