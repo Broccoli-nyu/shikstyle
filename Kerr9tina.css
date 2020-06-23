@@ -1807,7 +1807,7 @@ header.head a.edit:active,
   float: right;
   text-transform: uppercase;
   font-size: 10px;
-  margin-top: 20%;
+  margin-top: 2%;
   padding: 10px 12px;
   border: 1px solid var(--b3);
   border-radius: 2px;
@@ -1868,7 +1868,7 @@ header.head a.edit:active,
   color: var(--t1);
   cursor: pointer;
   padding: 4px 8px;
-  margin: 1px;
+  margin: 6px;
   border: 1px solid var(--b3);
   border-radius: 2px;
   transition: .25s ease;
@@ -1879,7 +1879,7 @@ header.head a.edit:active,
   white-space: normal;
   border-left: 1px solid var(--b3);
   padding-left: 6px;
-  margin-left: 1px;
+  margin-left: 6px;
 }
 
 .p-profiles .profile-head .b-stats_bar .stat_names .stat_name .size:before,
@@ -2964,7 +2964,7 @@ hr {
 
 .p-profiles .profile-head .c-info .c-lists-info .b-stats_bar .compatibility .rate {
   border-left: 1px solid var(--b3);
-  margin-left: 50px;
+  margin-left: 5px;
   padding-left: 5px;
 }
 
