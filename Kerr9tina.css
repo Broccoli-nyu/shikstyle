@@ -1065,7 +1065,7 @@ header.head a.edit:active,
 .p-profiles .profile-head .c-brief .avatar {
   position: relative;
   max-width: 1000px;
-  width: 30%;
+  width: 25%;
   max-height: 538px;
   background: var(--b2);
   padding: 20px;
