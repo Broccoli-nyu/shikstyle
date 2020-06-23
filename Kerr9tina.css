@@ -1367,7 +1367,7 @@ header.head a.edit:active,
   display: block;
   float: right;
   clear: none;
-  width: 17%;
+  width: 57%;
   min-height: 5px; 
   height: auto;
   margin: 20px;
@@ -1504,7 +1504,7 @@ header.head a.edit:active,
   display: block;
   float: left;
   text-align: center;
-  width: 36%;
+  width: 32%;
   min-height: 5px;
   height: auto;
   margin: 20px;
