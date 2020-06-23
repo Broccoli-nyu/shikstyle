@@ -1367,7 +1367,7 @@ header.head a.edit:active,
   display: block;
   float: right;
   clear: none;
-  width: 60%;
+  width: 100%;
   min-height: 5px; 
   height: auto;
   margin: 20px;
