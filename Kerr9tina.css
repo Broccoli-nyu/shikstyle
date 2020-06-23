@@ -86,7 +86,6 @@
 
 
 /* Фоновая картинка */
-
 body {
   background-image: url()!important;
 }
@@ -95,8 +94,8 @@ body {
 
 /* Псевдо аватарка */
 .p-profiles .profile-head .c-brief .avatar {
-  background-image: url(https://i.imgur.com/Xq5QfRk.png) !important; /* Ссылка на картинку */
-  height: 538px; /* Высота изображения 538px */
+  background-image: url(https://i.imgur.com/Xq5QfRk.png) !important;  /* Ссылка на картинку */
+  height: 538px; /* Высота изображения */
 }
 
 
@@ -112,8 +111,8 @@ body {
 
 /* Изменить растояние между графиками аниме и манги (отступы от полоски между ними) */
 .p-profiles .profile-head .c-info .c-lists-info .b-stats_bar.anime:after {
-  margin-top: 12% !important; /* Отступ сверху */
-  margin-bottom: 20% !important; /* Отступ снизу */
+  margin-top: 12px !important; /* Отступ сверху */
+  margin-bottom: 20px !important; /* Отступ снизу */
 }
 
 
@@ -160,7 +159,7 @@ body {
 }
 
 .p-profiles-show .cc-friends {
-  margin: 34px 0 -4px !important;
+  margin: 14px 0 -4px !important;
 }
 /* Клубы */
 
@@ -1065,7 +1064,7 @@ header.head a.edit:active,
 .p-profiles .profile-head .c-brief .avatar {
   position: relative;
   max-width: 1000px;
-  width: 32%;
+  width: 36%;
   max-height: 538px;
   background: var(--b2);
   padding: 20px;
@@ -1367,8 +1366,8 @@ header.head a.edit:active,
   display: block;
   float: right;
   clear: none;
-  width: 60%;
-  min-height: 5px; 
+  width: 57%;
+  min-height: 200px;
   height: auto;
   margin: 20px;
   padding: 20px 20px 40px 20px;
@@ -1504,8 +1503,8 @@ header.head a.edit:active,
   display: block;
   float: left;
   text-align: center;
-  width: 32%;
-  min-height: 5px;
+  width: 36%;
+  min-height: 200px;
   height: auto;
   margin: 20px;
   padding: 20px;
@@ -1516,11 +1515,11 @@ header.head a.edit:active,
 }
 
 .p-profiles-show.x1200 .profile-content .c-right {
-  width: 32%;
+  width: 36%;
 }
 
 .p-profiles-show.x1200 .profile-content .c-right > .cc-2a > .c-column {
-  width: 32%;
+  width: 36%;
 }
 
 .p-profiles-show .profile-content > .cc-2.block {
@@ -1531,8 +1530,8 @@ header.head a.edit:active,
   display: block;
   float: left;
   text-align: center;
-  width: 32%;
-  min-height: 5px;
+  width: 36%;
+  min-height: 100px;
   height: auto;
   margin: 20px;
   padding: 20px;
@@ -1566,7 +1565,7 @@ header.head a.edit:active,
   float: left;
   vertical-align: middle;
   text-align: center;
-  width: 32%;
+  width: 96.5%;
   height: auto;
   margin: 20px;
   padding: 20px;
@@ -1593,7 +1592,7 @@ header.head a.edit:active,
 }
 
 .p-profiles-show .profile-content > .cc-2 > .c-column > .block:last-child > .cc-favourites .c-column .image-cutter {
-  max-width: 32% !important;
+  max-width: 100% !important;
   max-height: 100% !important;
 }
 
@@ -1807,7 +1806,7 @@ header.head a.edit:active,
   float: right;
   text-transform: uppercase;
   font-size: 10px;
-  margin-top: 2%;
+  margin-top: 0;
   padding: 10px 12px;
   border: 1px solid var(--b3);
   border-radius: 2px;
@@ -1879,7 +1878,7 @@ header.head a.edit:active,
   white-space: normal;
   border-left: 1px solid var(--b3);
   padding-left: 6px;
-  margin-left: 6px;
+  margin-left: 3px;
 }
 
 .p-profiles .profile-head .b-stats_bar .stat_names .stat_name .size:before,
@@ -1967,7 +1966,7 @@ header.head a.edit:active,
 .b-message > .inner {
   border-radius: 4px;
   padding: 10px;
-  min-height: 5px;
+  min-height: 72px;
 }
 
 .b-replies {
@@ -2872,7 +2871,7 @@ body[data-locale='en'] .b-show_more-more .hide-more:before {
   color: var(--t2);
   padding: 6px 10px !important;
   max-height: 360px;
-  min-height: 5px;
+  min-height: 168px;
 }
 
 .b-shiki_editor footer .unpreview:not(.link),
