@@ -1,4 +1,4 @@
-@media screen and (min-width: 544px)  { body { width: 100%; height:auto;}}
+@media screen and (min-width: 544px)  { body { width: 100%; height:auto; } .profile-head img { width:10%; height:auto; } }
 
 /* -------------------- Настройки -------------------- */
 
