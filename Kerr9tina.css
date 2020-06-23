@@ -95,7 +95,7 @@ body {
 /* Псевдо аватарка */
 .p-profiles .profile-head .c-brief .avatar {
   background-image: url(https://i.imgur.com/Xq5QfRk.png) !important; /* Ссылка на картинку */
-  height: auto; /* Высота изображения 538px */
+  height: 538px; /* Высота изображения 538px */
 }
 
 
@@ -111,8 +111,8 @@ body {
 
 /* Изменить растояние между графиками аниме и манги (отступы от полоски между ними) */
 .p-profiles .profile-head .c-info .c-lists-info .b-stats_bar.anime:after {
-  margin-top: 12px !important; /* Отступ сверху */
-  margin-bottom: 20px !important; /* Отступ снизу */
+  margin-top: 12% !important; /* Отступ сверху */
+  margin-bottom: 20% !important; /* Отступ снизу */
 }
 
 
