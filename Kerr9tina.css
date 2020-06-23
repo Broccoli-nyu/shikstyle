@@ -161,6 +161,7 @@ body {
 
 .p-profiles-show .cc-friends {
   margin: 34px 0 -4px !important;
+  width: 100px;
 }
 /* Клубы */
 
@@ -1486,7 +1487,7 @@ header.head a.edit:active,
 }
 
 .p-profiles-show .cc-friends {
-  margin: 80px 0 -4px;
+  margin: 8px 0 -4px;
 }
 
 .b-user.avatar img,
