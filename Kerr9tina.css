@@ -85,10 +85,11 @@
 
 
 /* Фоновая картинка */
+/*
 body {
   background-image: url()!important;
 }
-
+*/
 
 
 /* Псевдо аватарка */
@@ -249,19 +250,20 @@ body {
 :focus {
   outline: -webkit-focus-ring-color auto 0;
 }
-
+/*
 body, input, select, button, textarea {
   font-family: 'Ubuntu', sans-serif;
   font-size: 16px;
   color: var(--t2);
 }
-
+*/
+/*
 body {
   background: var(--b1);
   background-size: cover;
   background-attachment: fixed;
 }
-
+*/
 .l-page {
   background: transparent;
   margin-top: 12px;
